@@ -1,39 +1,71 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Bryn Meadows Blue Bash Golf Society
 
-Welcome,
+Welcome to the Bryn Meadows Blue Bash Golf Society, a community of golf enthusiasts dedicated to enjoying the game and fostering camaraderie. Our society is all about bringing together players of different skill levels who share a passion for golf and a desire to have fun on the course.
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+## About Us
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **July 26th, 2023**
+At Bryn Meadows Blue Bash Golf Society, we believe that golf is not just a sport, but an opportunity to connect with fellow players and enjoy the outdoors. Whether you're a seasoned golfer or a beginner looking to improve your game, you'll find a welcoming and inclusive environment here.
 
-## Codeanywhere Reminders
+## What We Offer
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+  **Golf Events:** Join us for regular golf events at the picturesque Bryn Meadows Golf Club. These events are a perfect blend of friendly competition and casual play, allowing golfers of all levels to participate and have a great time.
 
-`python3 -m http.server`
+  **Networking and Socializing:** Our society is more than just golf. It's a chance to meet like-minded individuals, network, and forge lasting friendships both on and off the course.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+  **Support and Learning:** Beginners can learn from experienced players, improving their skills and confidence. Experienced players can share their knowledge and passion for the game, fostering a sense of mentorship within the society.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+## Get Involved
 
-`http_server`
+Joining the Bryn Meadows Blue Bash Golf Society is easy! Simply attend one of our events or get in touch with us through our website. Whether you're looking to play competitively, improve your handicap, or simply enjoy a leisurely round of golf with friendly faces, you'll find your place in our society.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+## Project Goals
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+Our primary goal is to create an engaging and incluisuve golf community that offers platform for golf enthusiasts to connect, play and grow. With the Bryn Meadows Blue Bash Golf Society, we aim to achieve the following objectives:
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+### Short-Term Goals
 
-To log into the Heroku toolbelt CLI:
+  **Enhance Event Experience:** Improve the overall experience of our golf events by provding organised and enjoyable rounds of golf, encouraging friendly competition, and creating a welcoming atmosphere for players of all skill levels.
+  
+  **Expand Membership:** Increase our society's membership through targeted outreach efforts, referral programs, and callaborations with local golf enthusiasts.
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+### Long Term Goals
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+  **Develop Online Resources:** Create an online platform where members can access information about upcoming events, communicate with fellow golfers, share tips and experiences. and stay connected between events.
+  
+  **Facilitate Skill Enhancement:** Establish mentoring and skill-sharing programs within the society, allowing experienced golfers to guide beginners and intermediate players in improving their skills.
+  
+  **Community Engagement:** Foster a sense of community beyond the golf course by organising non-golf related social gatherings, charity events, and networking oppertunities for members.  
 
----
+## How We'll Measure Success
 
-Happy coding!
+We will measure the success of our goals through the following metrics:
+
+  **Membership Growth:** Monitor the number of new members joining the society and the retention rate of existing members.
+
+  **Event Participation:** Ytack the average participation rate in our golf events and compare it to historical data.
+
+  **Engagment on Online Platform:** Measure the frequency of interactions on our online platform, including social posts, event registrations, and member-to-member communication.
+  
+  **Feedback and Satisfaction:** Collect feedback from members through surveys and direct communication to gauge their satisfaction with events, programs, and the overall society experience.
+  
+  We are commited to achieving these goals to create a vibrant and thriving golf community that brings together individuals who share a passion for the game and a desire for meaningful connections.
+
+## Wireframes
+
+![Computer Homepage](/workspaces/Bryn-Meadows-Blue-Bash-Golf-Society/assets/images/Wireframe Com Home.jpg)
+
+![Computer Golf Course Page](/workspaces/Bryn-Meadows-Blue-Bash-Golf-Society/assets/images/Wireframe Com Course.jpg)
+
+![Computer Fixtures Page](/workspaces/Bryn-Meadows-Blue-Bash-Golf-Society/assets/images/Wireframe Com Fix.jpg)
+
+![Tablet Homepage](/workspaces/Bryn-Meadows-Blue-Bash-Golf-Society/assets/images/Wireframe Tab Home.jpg)
+
+![Tablet Golf Course Page](/workspaces/Bryn-Meadows-Blue-Bash-Golf-Society/assets/images/Wireframe Tab Course.jpg)
+
+![Tablet Fixture Page](/workspaces/Bryn-Meadows-Blue-Bash-Golf-Society/assets/images/Wireframe Tab Fix.jpg)
+
+![Smartphone homepage](/workspaces/Bryn-Meadows-Blue-Bash-Golf-Society/assets/images/Wireframe SP Home.jpg)
+
+![Smartphone Golf course Page](/workspaces/Bryn-Meadows-Blue-Bash-Golf-Society/assets/images/Wireframe SP Course.jpg)
+
+![Smartphone Fixtures Page](/workspaces/Bryn-Meadows-Blue-Bash-Golf-Society/assets/images/Wireframe SP Fix.jpg)
