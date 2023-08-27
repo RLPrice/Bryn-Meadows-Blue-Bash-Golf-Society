@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Lato:wght@100;300;400;700;900&family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+/*----------------Colours---------------*/
+
+.style-name {
+    background-color: #93c6e0;
+}
+
+body {
+    background-color: #006D77;
+    margin: 0;
+    padding: 0;
+}
+
+/*----------------Headings---------------*/
+
+header {
+    margin: 0;
+}
+
+.heading {
+    margin-left: 50px;
+}
+
+.logo {
+    background: url("../images/bluebash.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 400px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+}
+
+.name {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 300;
+    font-size: 54px;
+    margin-top: 50px;
+    color: #fff;
+}
+
+.slogan {
+    font-family: "great vibes", cursive;
+    font-size: 32px;
+    margin-top: 30px;
+    margin-bottom: 80px;
+    color: #fff;
+
+}
