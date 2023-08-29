@@ -43,7 +43,7 @@ header {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  min-height: 400px;
+  min-height: 360px;
   transition: all 0.5s ease-in-out;
   -moz-transition: all 0.5s ease-in-out;
   -webkit-transition: all 0.5s ease-in-out;
@@ -51,7 +51,7 @@ header {
 
 .name {
   font-family: "Montserrat", sans-serif;
-  font-weight: 300;
+  font-weight: 600;
   font-size: 54px;
   margin-top: 50px;
   color: #fff;
@@ -60,9 +60,9 @@ header {
 .slogan {
   font-family: "great vibes", cursive;
   font-size: 32px;
-  margin-top: 30px;
+  margin-top: 50px;
   margin-bottom: 80px;
-  color: #fff;
+  color: #ffd166;
 }
 
 .list-inline-item:not(:last-child) {
@@ -71,6 +71,10 @@ header {
 
 .menucontainer {
   font-size: 0;
+}
+
+#nav {
+    margin: 0;
 }
 
 #nav li {
@@ -101,9 +105,16 @@ header {
 .menuitem span {
     display: block;
     width: 100%;
-    padding: 5px;
+    padding: 10px;
     text-align: center;
     text-transform: uppercase;
     font-weight: 300;
     letter-spacing: 2px;
+}
+
+/*----------------Hoover.css---------------*/
+
+.hvr-sweep-to-right::before {
+    background: rgba(255, 209, 102, 50);
+    height: 120px;
 }
